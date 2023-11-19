@@ -8,7 +8,7 @@ A hospital management system, made using object oriented programming and file ha
 
 #### GO TO:
 
-- [**GOALS & OBJECTTIVES**](https://github.com/sayd17/blob/main/docs/project-documentation.md#Description)
+- [**GOALS & OBJECTTIVES**](https://github.com/sayd17/Health-Service-Organization-Software/blob/main/docs/project-documentation.md#Description)
 - [**SYSTEM DESIGN**](https://github.com/sayd17/Health-Service-Organization-Software/blob/main/docs/project-documentation.md#system-design)
 - [**DATA STORAGE**](https://github.com/sayd17/Health-Service-Organization-Software/blob/main/docs/project-documentation.md#data-storage)
 - [**IMPLEMENTATION**](https://github.com/sayd17/Health-Service-Organization-Software/blob/main/docs/project-documentation.md#implementation)
