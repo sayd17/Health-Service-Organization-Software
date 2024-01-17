@@ -1,4 +1,4 @@
-# hospital-management-system &nbsp; ![Generic badge](https://img.shields.io/badge/Semester-Project-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://en.wikipedia.org/wiki/MIT_License) [![Project Wiki](https://img.shields.io/badge/Project-wiki-blue.svg)](https://github.com/sayd17/Health-Service-Organization-Software/wiki/) [![Star: Count](https://img.shields.io/github/stars/sayd17/Health-Service-Organization-Software?color=purple&label=Stars)](https://github.com/sayd17/Health-Service-Organization-Software/stargazers) &nbsp;
+# Health-Service-Organization-Software &nbsp; ![Generic badge](https://img.shields.io/badge/Semester-Project-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://en.wikipedia.org/wiki/MIT_License) [![Project Wiki](https://img.shields.io/badge/Project-wiki-blue.svg)](https://github.com/sayd17/Health-Service-Organization-Software/wiki/) [![Star: Count](https://img.shields.io/github/stars/sayd17/Health-Service-Organization-Software?color=purple&label=Stars)](https://github.com/sayd17/Health-Service-Organization-Software/stargazers) &nbsp;
 
 ## Introduction
 
